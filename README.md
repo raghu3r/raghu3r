@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Thanks for being here.
+#### Thanks for being here!
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Next.js
