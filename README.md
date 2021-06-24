@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 #### Thanks for being here!
 
 - 🔭 I’m currently working on React JS
