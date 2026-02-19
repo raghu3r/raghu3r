@@ -1,8 +1,7 @@
 ## Hi 👋
 #### Thanks for being here!
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on React JS & Next.js
 - 👯 I’m looking for something exciting to learn & work.
 - 💬 Ask me about Future of JS
 - 📫 How to reach me: konidelaraghu@gmail.com
