@@ -1,5 +1,6 @@
 ## Hi 👋
 #### Thanks for being here!
+#### Need to see how JS withhold in the world of AI
 
 - 🔭 I’m currently working on React JS & Next.js
 - 👯 I’m looking for something exciting to learn & work.
